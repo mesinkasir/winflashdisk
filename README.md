@@ -19,4 +19,9 @@ Documentation installation :
 -------------
 
 Video : 
+
+64 bit installation
 [https://youtu.be/IYM8XoF6AX8](https://youtu.be/IYM8XoF6AX8)
+
+32/86 bit instllation
+[https://youtu.be/sDZCP0eVXBY](https://youtu.be/sDZCP0eVXBY)
